@@ -6,9 +6,9 @@
 ## Skills
 
 ### Basic 
-* HTML/CSS
-* Bootstrap/RWD
-* JS: ES5、ES6 / jQuery
+* HTML
+* CSS/ Bootstrap/ RWD
+* JS: ES5、ES6 / jQuery、jQuery-plugins
 * AJAX
 
 ### Front-end Framework : Vue.js
@@ -36,7 +36,7 @@
   
 * <a href="https://sheltered-dawn-54649.herokuapp.com/blogs">讀書部落格</a>
 
-  - 使用 node.js 、Express 編寫網頁app
+  - 使用 node.js 、Express 製作RESTful概念部落格
   - mongoDB 作為內容及使用者資訊資料庫
   - passport 作為認證工具
   - bootstrap 排版
@@ -50,5 +50,5 @@
 
 ## Introduction
 
-* 沒有學不好的事，只有不想學的人
+* 沒有學不好的事，只有不好學的人
 * 大膽想像，勇敢實踐
