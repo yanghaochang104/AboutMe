@@ -1,4 +1,5 @@
 # Yang Hao Chang 張仰浩
+* Front-end self-learner
 * e-mail: yanghaochang1004@gmail.com
 
 
