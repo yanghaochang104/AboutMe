@@ -1,5 +1,5 @@
 # Yang Hao Chang 張仰浩
-* Front-end self-learner
+* Front-end Self-learner
 * e-mail: yanghaochang1004@gmail.com
 
 
@@ -31,8 +31,13 @@
 
 * <a href="https://powerful-bayou-16780.herokuapp.com" target="_blank">地理位置及天氣狀況查詢</a>
 
-  - 使用jQuery抓取 apixu.com 以及 google map API
+  - 使用jQuery串接 apixu.com 以及 google map API
   - CSS 樣式設計
+
+* <a href="https://tranquil-tundra-18899.herokuapp.com" target="_blank">餐廳網頁</a>
+
+  - 使用jQuery plugin: Morphext 製作文字彈跳特效
+  - CSS + bootstrap 排版製作 RWD 網頁
   
 * <a href="https://sheltered-dawn-54649.herokuapp.com/blogs">讀書部落格</a>
 
