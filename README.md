@@ -18,8 +18,8 @@
 * vuex
 
 ### Back-end 
-* node.js Express 
-* mongoDB 
+* 基礎 node.js Express 
+* 基礎 mongoDB 
 * 具備 RESTful 概念
 
 ### Git、Git-hub
