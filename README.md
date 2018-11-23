@@ -41,7 +41,8 @@
   
 * <a href="https://sheltered-dawn-54649.herokuapp.com/blogs">讀書部落格</a>
 
-  - 使用 node.js 、Express 製作RESTful概念部落格
+  - RESTful概念架構
+  - 使用 node.js 、Express套件實現部落格CRUD功能
   - mongoDB 作為內容及使用者資訊資料庫
   - passport 作為認證工具
   - bootstrap 排版
@@ -50,7 +51,7 @@
   - 使用 vue.js 框架開發
   - vue-cli :製作專案
   - vue-router : page route
-  - vuex :central store management
+  - vuex :central store management，實現component之間的溝通
   - bootstrap 排版
 
 ## Introduction
