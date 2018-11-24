@@ -50,7 +50,7 @@
 * <a href="http://vue-js-deployment.s3-website-us-east-1.amazonaws.com" target="_blank">購物車頁面</a>
   - 使用 vue.js 框架開發
   - vue-cli :製作專案
-  - vue-router : page route
+  - vue-router : page route, 實現SPA架構
   - vuex :central store management，實現component之間的溝通
   - bootstrap 排版
 
