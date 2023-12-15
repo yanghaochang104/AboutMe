@@ -4,31 +4,21 @@
 
 ## Skills
 
-### Web Frontend (2018.09-2018.12)
-* HTML
-* CSS/ Bootstrap/ RWD
-* JS: ES5、ES6 / jQuery、jQuery-plugins
-* Typescript
-* AJAX
-* vue, vue-cli, vuex, vue-router
-* basic mongoDB
-* basic nodejs
-
 ### Mobile Device (2018.12 - 2020.02)
 * React-Native as cross platform development
 * redux-saga + react hook as state menagement
 * react-navigation as app navigation management
 * basic android deployment
 
-### Backend (2020.03 - 2020.08)
-* language: Python, JS
-* framework: flask
-* db: postgreSQL
-* ORM: SQLAlchemy
-* create RESTful API
-* authentication/authorization: auth0
-* containerize: docker
-* CI/CD: AWS (IAM, S3, EC2, EKS, ECR, CodeBuild, CodePipeline, CloudFormation)
+### Backend Working (2020.08 - 2022.06)
+* Vue3 with vue ecosystem
+* Java Maven
+* Spring Boot
+* MySQL
+* Nginx
+* Docker、Docker-compose
+
+* Flutter + Firebase monitoring(for mobile app)
 
 ### Git、Git-hub
 * 使用git進行版本管控
